@@ -1,3 +1,3 @@
 # Brew Manager
 
-1. brewmgr deps - removes unused installations
+1. brewmgr deps - removes unused brew installations
